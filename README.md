@@ -1,6 +1,16 @@
 # BingMapDemo
 
+This demo is copy from [LeonidVeremchuk/BingMapAndroid](https://github.com/LeonidVeremchuk/BingMapAndroid) and fix some bugs.
 
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="../device_demo.mp4" type="video/mp4">
-</video>
+Used AMap for location and China POI search, and used Foursquare for abroad POI search.
+
+## China POI info
+<img src="https://github.com/bravecheng/BingMapDemo/blob/master/china.png" width="300">
+
+## Abroad POI info
+
+<img src="https://github.com/bravecheng/BingMapDemo/blob/master/other.png" width="300">
+
+## Demo
+
+<img src="https://github.com/bravecheng/BingMapDemo/blob/master/demo.gif" width="300">
